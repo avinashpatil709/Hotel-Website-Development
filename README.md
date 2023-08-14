@@ -19,5 +19,4 @@ Add a contact form<br>
  <b>Contribute</b><br>
 If you would like to contribute to this project, please fork the repo and submit a pull request. I am always looking for feedback and suggestions.
 <br>
-<b>License</b><br>
-This project is licensed under the MIT License.
+<b>License</b> This project is licensed under the MIT License.
