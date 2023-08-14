@@ -4,7 +4,7 @@
 
 I am still working on the website, but I am happy to share it with the community. I hope you find it useful!
 
-<b>Features</b><
+<b>Features</b>
 <p>
 Browse a list of hotels<br>
 View detailed information about each hotel<br>
