@@ -16,7 +16,6 @@ Improve the search functionality<br>
 Add a blog<br>
 Add a contact form<br>
  </p>
- <b>Contribute</b><br>
-If you would like to contribute to this project, please fork the repo and submit a pull request. I am always looking for feedback and suggestions.
+ <b>Contribute </b> If you would like to contribute to this project, please fork the repo and submit a pull request. I am always looking for feedback and suggestions.
 <br>
 <b>License</b> This project is licensed under the MIT License.
