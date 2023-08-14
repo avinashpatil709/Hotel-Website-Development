@@ -3,9 +3,9 @@
 <h3>The website is responsive, so it can be viewed on any device. It is also well-organized and easy to use. I used Bootstrap5 to make the website easy to develop and maintain.</h3>
 
 I am still working on the website, but I am happy to share it with the community. I hope you find it useful!
+<br>
 
-<b>Features</b>
-<p>
+<p><b>Features</b>
 Browse a list of hotels<br>
 View detailed information about each hotel<br>
 Make reservations<br>
